@@ -1,0 +1,13 @@
+<div class="more-less-box">
+
+  <h3>
+  Fact Box
+  </h3>
+  <p class= "more-less-area collapsed">
+    Lorem ipsum dolor sit amet, eos diam elit graecis ne. Dicam impedit sea in. Eripuit accusamus reformidans cu has, te cum eruditi omittantur. Modus dicta feugiat ex per, at enim veritus ius.
+ </p>
+  
+<a class= "more-less-button" 
+href="javascript:void(0);"onclick="toggleMoreLess('.more-less-area')">Show/Hide</a>
+
+</div>
