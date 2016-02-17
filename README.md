@@ -1,10 +1,15 @@
+
+
+# more-less-box2
+expandable box for news articles created for City's MA Interactive J
+
 This HTML code will allow you to create a more-or-less box that expands to show more when you click it. It can be a great addition to any website to grab the attention of the readers.
 
 It's good to include some text whatever that may be in order to see what the box would look like in an actual website. 
 
 Start by creating a js-fiddle account, this is to allow you to write code more easily. 
 
-Like for any HTML page start by creating a h1 heading and include a title
+Like for any HTML page start by creating a <h1> tag and include a title
 the add some <P> with some text to give some body to your page
 
 next create a div class called: "more-less-box" It should look like this: <div class="more-less-box">
@@ -27,6 +32,3 @@ $(areaClass).toggleClass('collapsed');
 }
 
 In the CSS you can design you box to look however you want. 
-
-# more-less-box2
-expandable box for news articles created for City's MA Interactive J
